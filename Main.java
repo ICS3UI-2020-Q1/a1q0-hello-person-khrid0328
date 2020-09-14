@@ -26,7 +26,7 @@ public class Main {
     System.out.println("Hello " + userName + "!");
 
     // ask the user for their year of birth
-    System.out.println("Please enter the year you were born");
+    System.out.println("Please enter the year you were born:");
    // declare and initialize a variable for the birth year
     int birthYear = input.nextInt();
 
